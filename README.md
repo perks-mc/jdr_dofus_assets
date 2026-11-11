@@ -1,0 +1,1 @@
+# jdr_dofus_assets
